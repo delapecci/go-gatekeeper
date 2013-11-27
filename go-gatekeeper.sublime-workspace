@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Acc",
+				"Access_Token"
+			],
+			[
+				"oauth",
+				"oauth_config"
+			],
+			[
+				"aut",
+				"authorizationCode"
+			],
+			[
+				"respons",
+				"responseText"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"cl",
+				"clientSecret"
+			],
+			[
+				"re",
+				"redirectUrl"
+			],
+			[
+				"client",
+				"clientId"
+			],
+			[
+				"padi",
+				"padding-top"
+			],
+			[
+				"pages",
+				"pages_list"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"frag",
+				"fragment"
+			],
+			[
+				"_ari",
+				"_article_list_selector"
+			],
+			[
+				"_ar",
+				"_articlesPageUrl"
+			],
+			[
+				"_ur",
+				"_urlFragments"
+			],
+			[
+				"arti",
+				"articles"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"sp",
+				"space-line"
+			],
+			[
+				"tot",
+				"totalPageCount"
+			],
+			[
+				"Dzon",
+				"DzoneUserTrackSearchCtrl"
+			],
+			[
+				"dzon",
+				"dzoneUserId"
+			],
+			[
+				"_",
+				"_article_link_href"
+			],
+			[
+				"ari",
+				"article-list"
+			],
+			[
+				"pager",
+				"pagerLastLinkHref"
+			],
+			[
+				"ffm",
+				"ffmpegPath"
+			],
+			[
+				"bytes",
+				"bytesTotal"
+			],
+			[
+				"s",
+				"s_mill"
+			],
+			[
+				"_c",
+				"_cout_val"
+			],
+			[
+				"sta",
+				"stagingUIDs"
+			],
+			[
+				"atr",
+				"aTrickHtml"
+			],
+			[
+				"j",
+				"javascript"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.go",
+			"settings":
+			{
+				"buffer_size": 1492,
+				"line_ending": "Unix",
+				"name": "package main"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: List",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: Li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control:List",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/lic/Work/Git/delapecci.github.io/oauth/github.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2013-11-25-javascript.md",
+		"/Users/lic/Work/Git/delapecci.github.io/_config.yml",
+		"/Users/lic/Work/Git/delapecci.github.io/index.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/custom/pages_list",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2013-11-07-import-old-posts-from-ycool.md",
+		"/Users/lic/Work/Git/delapecci.github.io/assets/themes/zuimei/css/style.css",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/themes/zuimei/default.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/themes/zuimei/page.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/themes/zuimei/post.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/sharing",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/liquid_raw",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/posts_collate",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/pages_list",
+		"/Users/lic/Work/Git/delapecci.github.io/oauth/github_callback.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2013-05-23-9.md",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/analytics-providers/google",
+		"/Users/lic/Work/Git/delapecci.github.io/README.md",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/analytics",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/setup",
+		"/Users/lic/Work/Git/delapecci.github.io/projects.html",
+		"/Users/lic/Work/Git/oauth2-extensions/samples/mixed/oauth2/oauth2.js",
+		"/Users/lic/Work/Git/oauth2-extensions/samples/mixed/oauth2/adapters/github.js",
+		"/Users/lic/Work/testws/GithubMentor/index.html",
+		"/Users/lic/Work/testws/GithubMentor/github.js",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/popup2.html",
+		"/Users/lic/Work/testws/GithubMentor/js/vanilla.js",
+		"/Applications/goagent/README",
+		"/Users/lic/Work/testws/photoroad.py",
+		"/Users/lic/Work/Git/delapecci.github.io/_theme_packages/zuimei/_includes/themes/zuimei/post.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_theme_packages/zuimei/_includes/themes/zuimei/default.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_theme_packages/zuimei/assets/themes/zuimei/css/style.css",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2013-11-01-rookie-jekyll.md",
+		"/Users/lic/Work/Git/delapecci.github.io/archive.html",
+		"/Users/lic/Work/Git/delapecci.github.io/CNAME",
+		"/Users/lic/Work/Git/delapecci.github.io/_theme_packages/zuimei/_includes/themes/zuimei/page.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/tags_list",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/themes/the-minimum/default.html",
+		"/Users/lic/Work/Git/delapecci.github.io/about.html",
+		"/Users/lic/Work/Git/delapecci.github.io/writings.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_plugins/custom_category_pages",
+		"/Users/lic/Work/Git/delapecci.github.io/_layouts/default.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_layouts/category_index.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_layouts/page.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/JB/categories_list",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2010-01-14-poem-byenewyear.md",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2008-05-20-night-man.md",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2008-05-07-morning-light.md",
+		"/Users/lic/Work/Git/delapecci.github.io/_posts/2008-02-12-springs-window.md",
+		"/Users/lic/Work/Git/delapecci.github.io/.gitignore",
+		"/Users/lic/Work/Git/delapecci.github.io/tags.html",
+		"/Users/lic/Work/Git/delapecci.github.io/index.md_",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/custom/pages-list",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/zuimei/pages-list",
+		"/Users/lic/Work/Git/delapecci.github.io/categories.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/themes/twitter/default.html",
+		"/Users/lic/Work/Git/delapecci.github.io/index.md",
+		"/Users/lic/Work/Git/delapecci.github.io/pages.html",
+		"/Users/lic/Work/Git/delapecci.github.io/_includes/themes/zuimei/settings.yml",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/app.js",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/style.css",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/worker.js",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/manifest.json",
+		"/Users/lic/Work/Git/jekyll-bootstrap/404.html",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/DzoneUserTracksSearchWorker.js",
+		"/Users/lic/Work/testws/DzoneUserTracksSearchWorker.js",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/DzoneUserTrackSearch.js",
+		"/Users/lic/Work/testws/dzone_user_tracks_searcher.html",
+		"/Users/lic/Work/testws/DzoneUserTrackSearch.js",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/popup.html",
+		"/Users/lic/Work/testws/DZoneUserArticlesSearcher/popup.js",
+		"/Users/lic/Work/testws/dzone_articles_fetcher.html",
+		"/Users/lic/Work/testws/touch_effected_bg.js",
+		"/Users/lic/Work/testws/dzoneArticlePageLoader.js",
+		"/Users/lic/Work/Projects/NHKScoope/modules/iphone/jp.co.jp-tech.mediamoduleios7/1.0/manifest",
+		"/Users/lic/Work/Git/APE-Client-JavaScript/index.html",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/node_modules/fluent-ffmpeg/lib/processor.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/node_modules/fluent-ffmpeg/lib/extensions.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/node_modules/fluent-ffmpeg/index.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/node_modules/fluent-ffmpeg/lib-cov/fluent-ffmpeg.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/model/asset.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/controller.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/application.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/modules/encoder.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/modules/uploader.socket.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/modules/manager.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/index.html",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/templates/projectInfo.template",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/view/projectInfoView.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/templates/assetListElement.template",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/templates/helpers/list.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/view/projectBrowseView.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/model/audio.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/model/project.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/modules/info.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/main.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/require.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/modules/device.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/model/file.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/modules/utils.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/modules/metaData.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/lib/hbs.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/lib/backbone.iobind.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/lib/jstorage.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/lib/backbone-relational.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/config.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/projects/33a106dfdd074ce38422ac7981c75f04/compositions/524ecba3102b35dd04000009.avs",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/models/sequences.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/templates/timelineLayer.template",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/view/compositionView.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/js/view/sequenceCutView.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/modules/avisynth.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/models/files.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/models/compositions.js",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/public/preview.html",
+		"/Users/lic/Work/idea_ws/html5-videoEditor/models/projects.js",
+		"/Users/lic/Downloads/sitemap.xml",
+		"/Users/lic/Downloads/sitemap2.xml",
+		"/Users/lic/Downloads/sitemap.xml.1",
+		"/Users/lic/Work/Projects/LifeSings/GitPage/lifesings/index.html",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/Gist/gist.py",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/Gist/gist.pyc",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/User/Gist.sublime-settings",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/Gist/Gist.sublime-settings",
+		"/Users/lic/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/lic/Work/idea_ws/socket_io_demo/server.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/lic/Work/idea_ws/html5-videoEditor"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"custom",
+			"'''",
+			"accessTokenURL",
+			"getAccessAndRefreshTokens",
+			"adapterReverse",
+			"lookupAdapterName\nlookupAdapterName",
+			"        #",
+			"pages",
+			"theme",
+			"var worker = new Worker('DzoneUserTracksSearchWorker.js');",
+			"_usrId",
+			"a.length",
+			"{\n",
+			"console.",
+			"ffmpegPath",
+			"webm",
+			"transcode",
+			"sendFileChunk",
+			");\n",
+			"acceptFilePartial",
+			"router",
+			"app",
+			"frame",
+			"fs.",
+			"fs",
+			"3000",
+			"socket.io started",
+			"info",
+			"started",
+			"socket.io",
+			"db",
+			"map",
+			">\n",
+			"img",
+			"connect",
+			"echo",
+			"socket_select",
+			">\n",
+			"getMe",
+			"select_theme",
+			"asia",
+			"plugin",
+			"plugins",
+			"jsonp",
+			"session",
+			"winchan",
+			"createUser",
+			"mNamespace\nmNamespace",
+			"mNamespace",
+			"mApiHost",
+			"jsonp",
+			"launchAuthWindow",
+			"setUserId",
+			"private",
+			"3342"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"```",
+			"3242"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.go",
+					"settings":
+					{
+						"buffer_size": 1492,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"auto_name": "package main",
+							"syntax": "Packages/Go/Go.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"weibo_oauth2_callback.php"
+			],
+			[
+				"ex",
+				"examples/example-helper.js"
+			],
+			[
+				"user",
+				"examples/userlist.html"
+			],
+			[
+				"firepad-user",
+				"examples/firepad-userlist.js"
+			],
+			[
+				"secre",
+				"examples/security/secret-url.json"
+			],
+			[
+				"val",
+				"examples/security/validate-auth.json"
+			],
+			[
+				"firepad.js",
+				"lib/firepad.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}
